@@ -2,7 +2,7 @@ package Task2;
 
 public class StringManipulation {
 	public static void main(String[]args) {
-		String name = "BhanuPrakash";
+		String name = "sai srikar";
 		
 		System.out.printf("Length:%d\n",name.length());
 		
@@ -15,3 +15,4 @@ public class StringManipulation {
 	        System.out.printf("Full name: %s\n", full);
 	}
 }
+
